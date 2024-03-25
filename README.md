@@ -1,5 +1,8 @@
 # expenses_
 
+![ezgif-3-6f727edaa0](https://github.com/xerlab/expense_tracker/assets/154817622/06a64c54-e824-4572-baaf-7329bc09045f)
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
